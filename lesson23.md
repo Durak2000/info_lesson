@@ -1,4 +1,3 @@
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkNGkeOD5Zv1ZzrATNS6JTj2USUABzj-hGVg&s)
 # Задачи
 1. а, д, б, в, г
 2. а)  у ≤ 1
